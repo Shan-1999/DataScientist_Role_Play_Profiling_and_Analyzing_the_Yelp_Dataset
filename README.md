@@ -1,6 +1,7 @@
-# DataScientist_Role_Play_Profiling_and_Analyzing_the_Yelp_Dataset
-Extracting Insights: An In-depth Analysis of the Yelp Dataset
+
+
 # Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset
+Extracting Insights: An In-depth Analysis of the Yelp Dataset
 
 Welcome to my Data Scientist Role Play project, where I've taken on the role of a data scientist to dive into the intriguing world of the Yelp dataset. In this project, I've had the chance to explore, analyze, and uncover insights from a real-world dataset – just like a data scientist would in the field.
 
